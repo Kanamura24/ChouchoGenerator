@@ -3,3 +3,6 @@ JARA_ARM*
 *.pyc
 *~
 *_idl.py
+*.log
+omninames*
+chou_*
