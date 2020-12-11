@@ -1,5 +1,5 @@
-set(comp_srcs ArmImagePredictor_Keras.cpp )
-set(standalone_srcs ArmImagePredictor_KerasComp.cpp)
+set(comp_srcs ChouchoGenerator.cpp )
+set(standalone_srcs ChouchoGeneratorComp.cpp)
 
 if (DEFINED OPENRTM_INCLUDE_DIRS)
   string(REGEX REPLACE "-I" ";"

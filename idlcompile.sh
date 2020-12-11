@@ -1,2 +1,2 @@
 #!/bin/sh
-omniidl -bpython -I"%RTM_ROOT%rtm\idl" -I"/Users/ysuga/idl/" -I"/Users/ysuga/idl" idl/ManipulatorCommonInterface_Common.idl idl/ManipulatorCommonInterface_MiddleLevel.idl idl/Img.idl idl/ManipulatorCommonInterface_DataTypes.idl 
+omniidl -bpython -I"%RTM_ROOT%rtm/idl" -I"/usr/include/openrtm-1.1/rtm/idl/" -I"/home/ogata/work/ChouchoGenerator/idl" idl/ManipulatorCommonInterface_Common.idl idl/ManipulatorCommonInterface_MiddleLevel.idl idl/Img.idl idl/ManipulatorCommonInterface_DataTypes.idl idl/LeftManipulatorCommonInterface_Common.idl idl/LeftManipulatorCommonInterface_MiddleLevel.idl idl/LeftManipulatorCommonInterface_DataTypes.idl
